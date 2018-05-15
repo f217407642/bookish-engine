@@ -15,6 +15,8 @@ Each file contains the script for 1+ classes needed to solve an Eight Puzzle.
 4. state.py
 5. timer.py
 
-Note, you must have sufficient practice in python object oriented programming to use this program.
-For functionality, each file must be saved separately as a .py file within the same directory and properly called on the IDLE shell. 
+For functionality on your machine, each file must be saved separately as a .py file within the same directory and properly called on the IDLE shell. 
+
+Note, you must have sufficient practice in python object oriented programming to get a proper output after each method call.
+
  
