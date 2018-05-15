@@ -7,6 +7,7 @@ The overall goal was to write a program that could  solve  any  valid  initial  
 We concluded the project by creating our own efficient heuristic algorithm.
 
 There are 5 python files in this repository:
+Each file contains the script for 1+ classes needed to solve an Eight Puzzle.
 
 1. board.py
 2. eight_puzzle.py
@@ -14,5 +15,6 @@ There are 5 python files in this repository:
 4. state.py
 5. timer.py
 
-For functionality, each file must be saved separately as a .py file and called on the IDLE shell. 
-Each file contains the script for 1+ classes needed to solve an Eight Puzzle. 
+Note, you must have sufficient practice in python object oriented programming to use this program.
+For functionality, each file must be saved separately as a .py file within the same directory and properly called on the IDLE shell. 
+ 
